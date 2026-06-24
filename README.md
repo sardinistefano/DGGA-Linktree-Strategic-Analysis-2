@@ -125,7 +125,11 @@ académica, permitiendo a estudiantes acceder a servicios, trámites y contactos
 ### Nueva Estructura Jerárquica
 🏠 LINKTREE DGGA - ESTRUCTURA RECOMENDADA
 
-┌─────────────────────────────────────────────────────┐ │ DGGA - Gestión Académica UNS │ │ "Tu puerta de entrada a la vida académica" │ │ 📞 WhatsApp | 📧 Email | 🕐 Horarios │ └─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│ DGGA - Gestión Académica UNS │
+│ "Tu puerta de entrada a la vida académica" │ 
+│ 📞 WhatsApp | 📧 Email | 🕐 Horarios │ 
+└─────────────────────────────────────────────────────┘
 
 ┌─ 🔴 CRÍTICO (Lo más importante) ─────────────────┐ │ │ │ 📍 ATENCIÓN RÁPIDA │ │ ├─ 📞 Contacto DGGA (WhatsApp + Email) │ │ ├─ 📅 Calendario Académico 2026 │ │ ├─ 🏫 Horarios de Cursada │ │ └─ ❓ Preguntas Frecuentes (FAQ) │ │ │ └────────────────────────────────────────────────────┘
 
