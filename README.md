@@ -139,7 +139,11 @@ académica, permitiendo a estudiantes acceder a servicios, trámites y contactos
 └─ ❓ Preguntas Frecuentes (FAQ) │ │ │ 
 └────────────────────────────────────────────────────┘
 
-┌─ 🟡 ESTUDIANTES NUEVOS (Ingreso) ────────────────┐ │ │ │ 🎓 INGRESO 2027 │ │ ├─ ℹ️ Información General │ │ ├─ 📋 Inscripciones Online │ │ ├─ 🗓️ Fechas Importantes │ │ ├─ 📖 Planes de Estudio │ │ └─ 💬 Grupo WhatsApp de Ingresantes │ │ │ └────────────────────────────────────────────────────┘
+┌─ 🟡 ESTUDIANTES NUEVOS (Ingreso) ────────────────┐ 
+│ │ │ 🎓 INGRESO 2027 │ │ ├─ ℹ️ Información General │
+│ ├─ 📋 Inscripciones Online │ │ ├─ 🗓️ Fechas Importantes │ 
+│ ├─ 📖 Planes de Estudio │ │ └─ 💬 Grupo WhatsApp de Ingresantes │ │ 
+│ └────────────────────────────────────────────────────┘
 
 ┌─ 🟢 ESTUDIANTES ACTIVOS ─────────────────────────┐ │ │ │ 📚 MIS TRÁMITES │ │ ├─ 📊 Calificaciones (SIU-Guaraní) │ │ ├─ 📝 Inscripción a Materias │ │ ├─ 📋 Equivalencias │ │ ├─ 🔄 Cambio de Plan │ │ ├─ 📜 Certificados │ │ ├─ 🎓 Régimen de Cursada │ │ └─ 🆘 Solicitudes Especiales │ │ │ └────────────────────────────────────────────────────┘
 
@@ -157,7 +161,8 @@ académica, permitiendo a estudiantes acceder a servicios, trámites y contactos
 
 
 ### Principios de la Nueva Estructura
-JERARQUIZACIÓN POR URGENCIA └─ Contacto, calendario, horarios PRIMERO
+JERARQUIZACIÓN POR URGENCIA
+└─ Contacto, calendario, horarios PRIMERO
 SEGMENTACIÓN POR AUDIENCIA ├─ Ingresantes 2027 ├─ Estudiantes activos ├─ Egresados └─ Potenciales estudiantes
 
 ACCESIBILIDAD UNIVERSAL ├─ Lenguaje simple ├─ Múltiples formatos ├─ Navegación intuitiva └─ Mobile-first
